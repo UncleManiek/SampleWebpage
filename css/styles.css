@@ -1,17 +1,39 @@
+.bodyStyle {
+    margin: 0px;
+}
+
+.divMode{
+    display: block;
+}
+
 .top{
     background-color: bisque;
-    width: 100%;
     height: 200px;
 }
 
 .middle{
     background-color: cornflowerblue;
+    height: 2500px;
 }
 
 .bottom{
     background-color: darkgrey;
+    height: 200px;
+}
+
+.menuListBlock{
+    background-color: coral;
+    height: 100px;
 }
 
 .menuList{
-    background-color: coral;
+    background-color: white; 
+    margin: 0px;
+    height: 80px;
+    margin-top: 10px;
+}
+
+.menuListItem{
+    display: inline;
+    background-color: yellow;
 }
