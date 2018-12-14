@@ -1,0 +1,17 @@
+.top{
+    background-color: bisque;
+    width: 100%;
+    height: 200px;
+}
+
+.middle{
+    background-color: cornflowerblue;
+}
+
+.bottom{
+    background-color: darkgrey;
+}
+
+.menuList{
+    background-color: coral;
+}
